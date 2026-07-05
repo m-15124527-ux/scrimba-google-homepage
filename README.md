@@ -22,7 +22,7 @@ The goal of this project was to recreate the Google homepage layout using basic 
 
 ## 📸 Preview
 
-![Google Homepage Clone](Screenshot%202026-07-05%20094234.png)
+![Google Homepage Clone](screenshot.png)
 
 ## 📁 Project Status
 
