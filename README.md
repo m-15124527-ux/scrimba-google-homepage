@@ -22,7 +22,7 @@ The goal of this project was to recreate the Google homepage layout using basic 
 
 ## 📸 Preview
 
-*(Add a screenshot of your project here)*
+![Google Clone] 
 
 ## 📁 Project Status
 
